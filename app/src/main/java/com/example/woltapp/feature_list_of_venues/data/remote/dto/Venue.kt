@@ -2,7 +2,7 @@ package com.example.woltapp.feature_list_of_venues.data.remote.dto
 
 data class Venue(
     val address: String,
-    val badges: List<Badge>,
+    val badgeUnuseds: List<Badge_Unused>,
     val categories: List<Any>,
     val city: String,
     val country: String,
@@ -21,7 +21,7 @@ data class Venue(
     val price_range: Int,
     val product_line: String,
     val promotions: List<Any>,
-    val rating: Rating,
+    val ratingUnused: Rating_Unused,
     val short_description: String,
     val show_wolt_plus: Boolean,
     val slug: String,

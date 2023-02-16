@@ -1,5 +1,6 @@
 package com.example.woltapp.feature_list_of_venues.data.remote.dto
 
-data class Created(
-    val `$date`: Long
+data class Rating_Unused(
+    val rating: Int,
+    val score: Double
 )

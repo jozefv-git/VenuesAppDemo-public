@@ -1,6 +1,6 @@
 package com.example.woltapp.feature_list_of_venues.data.remote.dto
 
-data class Link(
+data class Link_Unused(
     val target: String,
     val target_sort: String,
     val target_title: String,

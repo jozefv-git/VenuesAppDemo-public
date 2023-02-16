@@ -1,6 +1,6 @@
 package com.example.woltapp.feature_list_of_venues.data.remote.dto
 
-data class Sortable(
+data class FilterX_Unused(
     val id: String,
-    val value: Int
+    val values: List<String>
 )

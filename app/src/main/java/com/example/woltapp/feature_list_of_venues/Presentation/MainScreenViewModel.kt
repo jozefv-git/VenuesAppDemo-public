@@ -77,8 +77,7 @@ class MainScreenViewModel @Inject constructor(
                     )
                 } else {
                     _state.value = _state.value.copy(
-                        isBottomSheetExpanded =
-                        false)
+                        isBottomSheetExpanded = false)
                 }
             }
             is MainScreenEvent.OnDeleteVenuesClick -> {

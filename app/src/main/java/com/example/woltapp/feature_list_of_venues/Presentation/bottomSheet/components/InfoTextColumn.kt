@@ -1,4 +1,4 @@
-package com.example.woltapp.feature_list_of_venues.Presentation.components.bottomSheet
+package com.example.woltapp.feature_list_of_venues.Presentation.bottomSheet.bottomSheet
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

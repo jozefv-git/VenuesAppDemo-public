@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.woltapp.feature_list_of_venues.Presentation.MainScreenEvent
 import com.example.woltapp.feature_list_of_venues.Presentation.MainScreenViewModel
-import com.example.woltapp.feature_list_of_venues.Presentation.components.bottomSheet.InfoTextColumn
+import com.example.woltapp.feature_list_of_venues.Presentation.bottomSheet.bottomSheet.InfoTextColumn
 import com.example.woltapp.ui.theme.OwnSpacing
 import com.example.woltapp.ui.theme.OwnText
 

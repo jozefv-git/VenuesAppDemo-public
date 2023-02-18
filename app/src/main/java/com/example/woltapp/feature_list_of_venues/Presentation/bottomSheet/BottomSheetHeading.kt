@@ -15,7 +15,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.example.woltapp.feature_list_of_venues.Presentation.MainScreenEvent
 import com.example.woltapp.feature_list_of_venues.Presentation.MainScreenViewModel
-import com.example.woltapp.feature_list_of_venues.Presentation.components.bottomSheet.HeadingText
+import com.example.woltapp.feature_list_of_venues.Presentation.bottomSheet.bottomSheet.HeadingText
 import com.example.woltapp.ui.theme.OwnSpacing
 import com.example.woltapp.ui.theme.OwnText
 import kotlinx.coroutines.launch
